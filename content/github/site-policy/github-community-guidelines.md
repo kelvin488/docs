@@ -4,7 +4,7 @@ redirect_from:
   - /community-guidelines/
   - /articles/github-community-guidelines
 versions:
-  free-pro-team: '*'
+  free-pro-team: 'harry'
 topics:
   - Policy
   - Legal
